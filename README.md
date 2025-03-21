@@ -36,4 +36,4 @@ I am actively learning Docker and FastAPI to improve my development skills.
 
 ---
 
-⭐ Thanks for visiting my profile! If you have any questions or suggestions, feel free to reach out to me.есь связаться со мной.
+⭐ Thanks for visiting my profile! If you have any questions or suggestions, feel free to reach out to me.
