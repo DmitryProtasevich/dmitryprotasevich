@@ -26,14 +26,8 @@ I am actively learning Docker and FastAPI to improve my development skills.
 
 ## 🏆 My Projects
 
-### 🎮 [Snake Game](https://github.com/DmitryProtasevich/snake-game)
-Classic Snake game built with Python and Pygame. Implemented core game mechanics including snake movement, apple generation, collision detection, and keyboard controls using OOP principles.
-
 ### 📝 [Blogicum](https://github.com/DmitryProtasevich/blogicum)
 Django-powered blog platform with post management, commenting system, user profiles. Features include pagination, image uploads, scheduled posts, and admin panel for content management.
-
-### 🤖 [Homework Bot](https://github.com/DmitryProtasevich/homework-bot)
-Telegram bot that tracks homework status via Practicum API. Sends notifications when status changes and logs all activities. Runs automated checks every 10 minutes.
 
 ### 🌐 [Yatube API](https://github.com/DmitryProtasevich/api-yatube)
 REST API for social network built with Django REST Framework. Supports posts, comments, subscriptions with JWT authentication, pagination and search functionality.
@@ -41,6 +35,11 @@ REST API for social network built with Django REST Framework. Supports posts, co
 ### 🧪 [YaNews/YaNote Testing](https://github.com/DmitryProtasevich/django-testing)
 Comprehensive test suites for news platform (pytest) and notes application (unittest). Covers functionality, access control, content sorting and error handling.
 
+### 🤖 [Homework Bot](https://github.com/DmitryProtasevich/homework-bot)
+Telegram bot that tracks homework status via Practicum API. Sends notifications when status changes and logs all activities. Runs automated checks every 10 minutes.
+
+### 🎮 [Snake Game](https://github.com/DmitryProtasevich/snake-game)
+Classic Snake game built with Python and Pygame. Implemented core game mechanics including snake movement, apple generation, collision detection, and keyboard controls using OOP principles.
 
 
 ## 🧠 Soft Skills:
