@@ -17,10 +17,7 @@ I am actively learning Docker and FastAPI to improve my development skills.
 - Docker for containerizing applications.
 
 ## 📫 How to reach me:
-- **Email:**  
-[protas.dmitry4@yahoo.com](mailto:protas.dmitry4@yahoo.com)  
-[dmitry_protasevich@mail.ru](mailto:dmitry_protasevich@mail.ru)  
-[protas.dmitry4@yandex.ru](mailto:protas.dmitry4@yandex.ru)
+- **Email:**  [protas.dmitry4@yandex.ru](mailto:protas.dmitry4@yandex.ru)
 - **Telegram:** [DmitryProtasevich](https://t.me/DmitryProtasevich)
 - **LinkedIn:** [in/dmitryprotasevich](https://www.linkedin.com/in/dmitryprotasevich)
 
