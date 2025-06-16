@@ -2,7 +2,7 @@
 
 I am a Python developer.  
 🚀 My tech stack includes Python, Django, DRF, as well as basic knowledge of HTML, Bootstrap, and SQL.  
-I am actively learning Docker and FastAPI to improve my development skills.
+I am actively learning FastAPI to improve my development skills.
 
 ## 🔧 Technologies and tools I use:
 - **Backend:** Python, Django, DRF, FastAPI
