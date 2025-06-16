@@ -5,12 +5,12 @@ I am a Python developer.
 I am actively learning Docker and FastAPI to improve my development skills.
 
 ## 🔧 Technologies and tools I use:
-- **Programming languages:** Python
-- **Frameworks:** Django, DRF, FastAPI, Pygame
-- **Tools:** Git, Docker, VS Code, Linux, Postman
-- **Databases:** SQL (PostgreSQL, SQLite)
+- **Backend:** Python, Django, DRF, FastAPI
+- **Infrastructure:** Docker, Docker Compose, Nginx, CI/CD (GitHub Actions)
+- **Databases:** PostgreSQL, SQLite
 - **Testing:** pytest, unittest
-- **Other:** Telegram API (telebot), HTML, Bootstrap
+- **APIs:** REST API, Telegram Bot API
+- **Other:** Git, Linux, Postman, HTML, Bootstrap
 
 ## 🌱 Currently learning:
 - FastAPI for building modern and fast APIs.
@@ -23,8 +23,12 @@ I am actively learning Docker and FastAPI to improve my development skills.
 
 ## 🏆 My Projects
 
-### 📝 [Blogicum](https://github.com/DmitryProtasevich/blogicum-django)
-Django-powered blog platform with post management, commenting system, user profiles. Features include pagination, image uploads, scheduled posts, and admin panel for content management.
+### 🍳 [Foodgram](https://github.com/DmitryProtasevich/foodgram)
+**Full-stack recipe platform with Docker and CI/CD**  
+Developed backend API (Django REST Framework) with JWT authentication, subscriptions, favorites, and shopping list generation with ingredient aggregation.  
+Integrated React frontend via Nginx reverse proxy.  
+Containerized using Docker Compose (Django + PostgreSQL + Nginx).  
+Implemented CI/CD pipeline with automated tests, deployment, and Telegram notifications.
 
 ### 🌐 [Yatube API](https://github.com/DmitryProtasevich/api_django_yatube)
 REST API for social network built with Django REST Framework. Supports posts, comments, subscriptions with JWT authentication, pagination and search functionality.
