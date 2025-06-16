@@ -24,7 +24,7 @@ I am actively learning Docker and FastAPI to improve my development skills.
 ## 🏆 My Projects
 
 ### 🍳 [Foodgram](https://github.com/DmitryProtasevich/foodgram)
-**Full-stack recipe platform with Docker and CI/CD**  
+Full-stack recipe platform with Docker and CI/CD  
 Developed backend API (Django REST Framework) with JWT authentication, subscriptions, favorites, and shopping list generation with ingredient aggregation.  
 Integrated React frontend via Nginx reverse proxy.  
 Containerized using Docker Compose (Django + PostgreSQL + Nginx).  
